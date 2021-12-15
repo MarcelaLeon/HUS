@@ -7,8 +7,8 @@ Resumen proyecto: Aplicación práctica de conceptos estudiados en bimestres 1, 
 
 ## Equipo
 
-Marcela Torres León
-Yesica Melina Ferreyra
-Sofía De Laurentiis
-Branko Beros
-David Garcia
+- Marcela Torres León
+- Yesica Melina Ferreyra
+- Sofía De Laurentiis
+- Branko Beros
+- David Garcia
